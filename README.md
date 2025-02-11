@@ -1,13 +1,13 @@
-# Opening Cabinets and Drawers in the Real World using a Commodity Mobile Manipulator
+# Opening Articulated Objects in the Real World
 
-[[Project page]](https://arjung128.github.io/opening-cabinets-and-drawers/)
+[[Project page]](https://arjung128.github.io/opening-articulated-objects/)
 [[Paper]](https://arxiv.org/abs/2402.17767)
 
 <img width="100%" src="assets/teaser.gif">
 
-[Arjun Gupta](https://arjung128.github.io/)\*,
+[Arjun Gupta](https://arjung128.github.io/),
 [Michelle Zhang](https://www.linkedin.com/in/michelle-zhang-065037193/)\*,
-[Rishik Sathua](https://www.linkedin.com/in/rishik-sathua/),
+[Rishik Sathua](https://www.linkedin.com/in/rishik-sathua/)\*,
 [Saurabh Gupta](http://saurabhg.web.illinois.edu/) <br />
 \*denotes equal contribution.
 
