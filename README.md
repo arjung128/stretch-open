@@ -1,6 +1,6 @@
-# Opening Articulated Objects in the Real World
+# Opening Articulated Structures in the Real World
 
-[[Project page]](https://arjung128.github.io/opening-articulated-objects/)
+[[Project page]](https://arjung128.github.io/opening-articulated-structures/)
 [[Paper]](https://arxiv.org/abs/2402.17767)
 
 <img width="100%" src="assets/teaser.gif">
